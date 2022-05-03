@@ -12,6 +12,6 @@ Sistema de gestión de usuarios en una tienda donde podemos gestionar personal q
 </div>
 
 <div align="center">
-<img src="media/d2-usuarios.png">
+<img src="media/d2-usuario.png">
 <p><strong>Imagen:</strong> Gestión de usuarios.</p>
 </div>
